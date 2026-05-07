@@ -80,6 +80,3 @@ vim.keymap.set("n", "<leader>xq", "<cmd>!chmod +x %<CR>", { silent = true })
 
 --getting the config module (lazy & other addons)
 require("config")
-
-
-

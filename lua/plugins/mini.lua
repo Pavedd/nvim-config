@@ -47,6 +47,8 @@ return {
         starter.gen_hook.aligning("center", "center"),
       }
     } )
+
+
     require("mini.indentscope").setup({
       draw = {
         animation = function()
